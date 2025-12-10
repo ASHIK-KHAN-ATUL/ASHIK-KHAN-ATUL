@@ -49,10 +49,45 @@
 
 ## 🔥 Featured Projects
 
-- 🏋️‍♂️ **FitVerse** – Full-featured fitness tracker with trainer booking, Stripe payments, forums, newsletters, and dashboards  
-  [Live Site](https://fitverse-client.web.app) | [GitHub Repo](https://github.com/ASHIK-KHAN-ATUL/FitVerse-Client)
+### 1️⃣ Learning Zone – Jr Fullstack
+**Overview:**  
+A full-stack education platform for coaching centers, allowing admins, teachers, and students to connect, manage routines, and engage with interactive learning tools.  
+**Key Features:** Role-based dashboards, dynamic routine management, gamified learning tools, responsive UI, real-time approval updates.  
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Firebase, TailwindCSS, HTML, CSS, JavaScript  
+**Live Demo:** [https://learningzonekst.netlify.app/](https://learningzonekst.netlify.app/)  
+**GitHub Repo:** [Client](https://github.com/ASHIK-KHAN-ATUL/Learning-zone-Client)  
 
-- 🌍 **Visa Navigator** – Responsive visa search portal with CRUD, authentication, modals, and modern UI  
+---
+
+### 2️⃣ Blood Wave – Jr Fullstack
+**Overview:**  
+A modern blood donation platform connecting donors with recipients. Includes donor dashboards, admin monitoring, blood requests by location/blood group, and notifications.  
+**Key Features:** Role-based access, request tracking, donor privacy settings, responsive dashboards with charts, real-time data updates.  
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Firebase, TailwindCSS, HTML, CSS, JavaScript  
+**Live Demo:** [https://blood-wave.netlify.app/](https://blood-wave.netlify.app/)  
+**GitHub Repo:** [Client](https://github.com/ASHIK-KHAN-ATUL/Blood-Wave-Client)  
+
+---
+
+### 3️⃣ FitVerse – Jr Fullstack
+**Overview:**  
+A full-featured fitness tracker with trainer booking, Stripe payments, forums, newsletters, and dynamic dashboards for Admin, Trainer, and Member roles.  
+**Key Features:** Trainer slot booking, Stripe payments, community forums, newsletter subscriptions, role-based dashboards, responsive design.  
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Firebase, TailwindCSS, HTML, CSS, JavaScript  
+**Live Demo:** [https://fitverse-client.web.app](https://fitverse-client.web.app)  
+**GitHub Repo:** [Client](https://github.com/ASHIK-KHAN-ATUL/FitVerse-Client)  
+
+---
+
+### 4️⃣ Talker – Jr Fullstack
+**Overview:**  
+A social microblog platform where users can create posts (text + image), interact with others, manage profile privacy, and explore content in a responsive interface.  
+**Key Features:** JWT-based authentication, CRUD for users/posts, follow/unfollow, dark/light mode, responsive UI, React Query for efficient data fetching.  
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Firebase, TailwindCSS, HTML, CSS, JavaScript  
+**Live Demo:** [https://talkerbd.netlify.app/](https://talkerbd.netlify.app/)  
+**GitHub Repo:** [Client](https://github.com/ASHIK-KHAN-ATUL/Talker-client)  
+
+### 5️⃣ **Visa Navigator** – Responsive visa search portal with CRUD, authentication, modals, and modern UI  
   [Live Site](https://visa-navigator-ashik.web.app) | [GitHub Repo](https://github.com/ASHIK-KHAN-ATUL/Visa-Navigator-Client)
 
 ---
