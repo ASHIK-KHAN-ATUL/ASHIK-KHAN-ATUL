@@ -1,17 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Ashik+Khan+Atul;Junior+MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Real+World+Projects" />
 </h1>
-
-<h3 align="center">A Passionate Junior MERN Stack Web Developer From Bangladesh 🇧🇩</h3>
-
-
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="500"/>
 </p>
-
-
+<h3 align="center">A Passionate Junior MERN Stack Web Developer From Bangladesh 🇧🇩</h3>
 ---
-
 ## 👨‍💻 About Me
 
 - 🌱 I’m always learning **new web technologies**, building real-world projects, and exploring full stack best practices  
