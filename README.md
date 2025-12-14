@@ -4,6 +4,12 @@
 
 <h3 align="center">A Passionate Junior MERN Stack Web Developer From Bangladesh 🇧🇩</h3>
 
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="500"/>
+</p>
+
+
 ---
 
 ## 👨‍💻 About Me
