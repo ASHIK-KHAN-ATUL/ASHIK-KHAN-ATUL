@@ -6,6 +6,8 @@
 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=sakibulkabir&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views"/>
+
 ## 👨‍💻 About Me
 
 - 🌱 Learning modern **web technologies** and building real-world projects  
